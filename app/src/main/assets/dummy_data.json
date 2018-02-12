@@ -1,0 +1,39 @@
+{
+  "customeraccounts": [
+    {
+      "name": "Mi primer sueldo",
+      "mount": 1208,
+      "balanceAvailable": false
+    },
+    {
+      "name": "Mi segundo sueldo",
+      "mount": 7208,
+      "balanceAvailable": true
+    },
+    {
+      "name": "Mi tercer sueldo",
+      "mount": 208,
+      "balanceAvailable": false
+    },
+    {
+      "name": "Mi cuarto sueldo",
+      "mount": 6399,
+      "balanceAvailable": true
+    },
+    {
+      "name": "Mi quinto sueldo",
+      "mount": 120548,
+      "balanceAvailable": true
+    },
+    {
+      "name": "Mi sexto sueldo",
+      "mount": 12308,
+      "balanceAvailable": false
+    },
+    {
+      "name": "Mi septimo sueldo",
+      "mount": 77208,
+      "balanceAvailable": false
+    }
+  ]
+}

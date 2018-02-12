@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Design Patterns with Tests</string>
+
+    <string name="mount_account">S/. %1$d</string>
+    <string name="balance_available">Saldo disponible</string>
+    <string name="balance_not_available">Saldo no disponible</string>
+</resources>
