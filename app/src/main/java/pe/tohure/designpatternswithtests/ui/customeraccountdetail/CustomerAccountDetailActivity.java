@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import pe.tohure.designpatternswithtests.ui.data.model.CustomerAccount;
+import pe.tohure.designpatternswithtests.data.model.CustomerAccount;
 import pe.tohure.designpatternswithtests.util.Constant;
 import pe.tohure.designpatternswithtests.util.Helper;
 import pe.tohure.desingpatternswithtests.R;

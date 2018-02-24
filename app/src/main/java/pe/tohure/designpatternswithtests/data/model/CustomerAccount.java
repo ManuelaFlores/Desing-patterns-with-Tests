@@ -1,4 +1,4 @@
-package pe.tohure.designpatternswithtests.ui.data.model;
+package pe.tohure.designpatternswithtests.data.model;
 
 import java.io.Serializable;
 import java.util.List;

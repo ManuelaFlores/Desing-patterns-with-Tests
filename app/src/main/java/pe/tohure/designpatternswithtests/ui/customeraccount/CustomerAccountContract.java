@@ -2,7 +2,7 @@ package pe.tohure.designpatternswithtests.ui.customeraccount;
 
 import java.util.List;
 
-import pe.tohure.designpatternswithtests.ui.data.model.CustomerAccount;
+import pe.tohure.designpatternswithtests.data.model.CustomerAccount;
 import pe.tohure.designpatternswithtests.util.BasePresenter;
 
 /**

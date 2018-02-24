@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import pe.tohure.designpatternswithtests.app.DesignPatternApplication;
-import pe.tohure.designpatternswithtests.ui.data.model.CustomerAccount;
+import pe.tohure.designpatternswithtests.data.model.CustomerAccount;
 import pe.tohure.designpatternswithtests.util.Helper;
 import pe.tohure.desingpatternswithtests.R;
 

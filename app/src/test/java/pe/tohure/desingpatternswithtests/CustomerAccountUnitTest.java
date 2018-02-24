@@ -8,7 +8,7 @@ import java.io.InputStream;
 
 import pe.tohure.designpatternswithtests.ui.customeraccount.CustomerAccountContract;
 import pe.tohure.designpatternswithtests.ui.customeraccount.CustomerAccountInteractorImp;
-import pe.tohure.designpatternswithtests.ui.data.model.CustomerAccount;
+import pe.tohure.designpatternswithtests.data.model.CustomerAccount;
 import pe.tohure.desingpatternswithtests.util.HelperLocalTest;
 
 import static org.hamcrest.MatcherAssert.assertThat;
@@ -49,5 +49,5 @@ public class CustomerAccountUnitTest {
         customerAccountInteractor.getAccounts(callback);
         verify(customerAccountInteractor, times(1)).getAccounts(callback);
     }
-    
+
 }
